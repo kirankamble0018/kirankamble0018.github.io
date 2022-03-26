@@ -3,22 +3,26 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "version.json": "cb9e2a611ba1775519b0e07ffa3ee8d8",
-"index.html": "812c851238ddb51e3d514f0c1948d933",
-"/": "812c851238ddb51e3d514f0c1948d933",
-"main.dart.js": "eda505346070530cdd92945422ba9603",
+  "version.json": "0089a8047bd4cc6b714e08c3e402f9a4",
+"index.html": "14e83fb6507bfd8fcbb0d0ae93f7e84f",
+"/": "14e83fb6507bfd8fcbb0d0ae93f7e84f",
+"main.dart.js": "362edf47c81d4375a3123ece9d10d019",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "516085eee7f42d8a1a9b9a3db8d060e4",
 "assets/AssetManifest.json": "05ef5f55c2e81b26cbfe4778c239fd2b",
-"assets/NOTICES": "210db7c72d4818484c3165edf938871d",
+"assets/NOTICES": "ae1c4645f8ad038772420c11e1c7c141",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/packages/fluttertoast/assets/toastify.js": "e7006a0a033d834ef9414d48db3be6fc",
 "assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
-"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
+"assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
 "assets/assets/images/Originature_1.png": "47f021b688767442717ef7533ff11435",
-"assets/assets/images/Originature_2.png": "022a5ac5d948322f44782d19bff6335a"
+"assets/assets/images/Originature_2.png": "022a5ac5d948322f44782d19bff6335a",
+"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
+"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
+"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
+"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
 };
 
 // The application shell files that are downloaded before a service worker can
